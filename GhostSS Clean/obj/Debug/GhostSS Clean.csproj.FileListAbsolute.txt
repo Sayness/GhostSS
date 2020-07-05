@@ -1,0 +1,27 @@
+C:\Users\Sayness\source\repos\GhostSS Clean\GhostSS Clean\bin\Debug\GhostSS Clean.exe.config
+C:\Users\Sayness\source\repos\GhostSS Clean\GhostSS Clean\bin\Debug\GhostSS Clean.exe
+C:\Users\Sayness\source\repos\GhostSS Clean\GhostSS Clean\bin\Debug\GhostSS Clean.pdb
+C:\Users\Sayness\source\repos\GhostSS Clean\GhostSS Clean\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Sayness\source\repos\GhostSS Clean\GhostSS Clean\obj\Debug\GhostSS Clean.csprojAssemblyReference.cache
+C:\Users\Sayness\source\repos\GhostSS Clean\GhostSS Clean\obj\Debug\GhostSS_Clean.Login.resources
+C:\Users\Sayness\source\repos\GhostSS Clean\GhostSS Clean\obj\Debug\GhostSS_Clean.Main.resources
+C:\Users\Sayness\source\repos\GhostSS Clean\GhostSS Clean\obj\Debug\GhostSS_Clean.Properties.Resources.resources
+C:\Users\Sayness\source\repos\GhostSS Clean\GhostSS Clean\obj\Debug\GhostSS Clean.csproj.GenerateResource.cache
+C:\Users\Sayness\source\repos\GhostSS Clean\GhostSS Clean\obj\Debug\GhostSS Clean.csproj.CoreCompileInputs.cache
+C:\Users\Sayness\source\repos\GhostSS Clean\GhostSS Clean\obj\Debug\GhostSS Clean.csproj.CopyComplete
+C:\Users\Sayness\source\repos\GhostSS Clean\GhostSS Clean\obj\Debug\GhostSS Clean.exe
+C:\Users\Sayness\source\repos\GhostSS Clean\GhostSS Clean\obj\Debug\GhostSS Clean.pdb
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\bin\Debug\GhostSS.exe.config
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\bin\Debug\GhostSS.exe
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\bin\Debug\GhostSS.pdb
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\obj\Debug\GhostSS Clean.csprojAssemblyReference.cache
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\obj\Debug\GhostSS_Clean.Login.resources
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\obj\Debug\GhostSS_Clean.Main.resources
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\obj\Debug\GhostSS.Properties.Resources.resources
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\obj\Debug\GhostSS Clean.csproj.GenerateResource.cache
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\obj\Debug\GhostSS Clean.csproj.CoreCompileInputs.cache
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\obj\Debug\GhostSS Clean.csproj.Fody.CopyLocal.cache
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\obj\Debug\GhostSS Clean.csproj.CopyComplete
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\obj\Debug\GhostSS.exe
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\obj\Debug\GhostSS.pdb

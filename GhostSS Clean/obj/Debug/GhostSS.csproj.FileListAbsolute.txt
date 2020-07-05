@@ -1,0 +1,14 @@
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\bin\Debug\GhostSS.exe.config
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\bin\Debug\GhostSS.exe
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\bin\Debug\GhostSS.pdb
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\obj\Debug\GhostSS.csprojAssemblyReference.cache
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\obj\Debug\GhostSS_Clean.Login.resources
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\obj\Debug\GhostSS_Clean.Main.resources
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\obj\Debug\GhostSS.Properties.Resources.resources
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\obj\Debug\GhostSS.csproj.GenerateResource.cache
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\obj\Debug\GhostSS.csproj.CoreCompileInputs.cache
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\obj\Debug\GhostSS.csproj.Fody.CopyLocal.cache
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\obj\Debug\GhostSS.csproj.CopyComplete
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\obj\Debug\GhostSS.exe
+C:\Users\Maxime\Documents\Assassin's Creed Unity\GhostSS full c#\GhostSS Clean\obj\Debug\GhostSS.pdb

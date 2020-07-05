@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Document Version="2">
+    <Protection InputFileName="GhostSS.exe" Options="991176" LicenseDataFileName="GhostSS.exe.vmp">
+        <Messages />
+        <Folders>
+            <Folder Name="Main" />
+            <Folder Name="Login" />
+            <Folder Name="other" />
+            <Folder Name="Strings" />
+        </Folders>
+        <Procedures>
+            <Procedure MapAddress="GhostSS_Clean.Main::LaunchJavaw()" Options="0" Folder="0" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Main::LaunchExplorer()" Options="0" Folder="0" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Main::LaunchLsasss()" Options="0" Folder="0" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Main::LaunchDNS()" Options="0" Folder="0" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Main::LaunchDwm()" Options="0" Folder="0" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Program::Main()" Options="0" Folder="0" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Main::Dispose(bool)" Options="0" Folder="0" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Main::CoolDown_Tick(object, class System.EventArgs)" Options="0" Folder="0" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Main::.ctor()" Options="0" Folder="0" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Main::CheckVPN()" Options="0" Folder="0" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Main::LauncHScan()" Options="0" Folder="0" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Main::CheckMC()" Options="0" Folder="0" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Main::GhostDownload()" Options="0" Folder="0" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Main::GROSCHIENDETESMORT_Click(object, class System.EventArgs)" Options="0" Folder="0" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Main::timer1_Tick(object, class System.EventArgs)" Options="0" Folder="0" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Main::Main_Load(object, class System.EventArgs)" Options="0" Folder="0" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Main::Main_FormClosing(object, class System.Windows.Forms.FormClosingEventArgs)" Options="0" Folder="0" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Main::InitializeComponent()" Options="0" Folder="0" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Main::hash(string)" Options="0" Folder="0" CompilationType="1" />
+            <Procedure MapAddress="GhostSS_Clean.Main::CopyLinesRemovingAllDupes(class System.IO.TextReader, class System.IO.TextWriter)" Options="0" Folder="0" CompilationType="1" />
+            <Procedure MapAddress="GhostSS_Clean.Main::Decrypt(string, int32)" Options="0" Folder="0" CompilationType="1" />
+            <Procedure MapAddress="GhostSS_Clean.Main::DetectClient(string, string)" Options="0" Folder="0" CompilationType="1" />
+            <Procedure MapAddress="GhostSS_Clean.Main::RemoveLong(class System.IO.TextReader, class System.IO.TextWriter)" Options="0" Folder="0" CompilationType="1" />
+            <Procedure MapAddress="GhostSS_Clean.Login::.ctor()" Options="0" Folder="1" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Login::CheckPin()" Options="0" Folder="1" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Login::bunifuThinButton21_Click(object, class System.EventArgs)" Options="0" Folder="1" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Login::hbwait(int64)" Options="0" Folder="1" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Login::Login_Load(object, class System.EventArgs)" Options="0" Folder="1" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Login::Login_FormClosing(object, class System.Windows.Forms.FormClosingEventArgs)" Options="0" Folder="1" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Login::Dispose(bool)" Options="0" Folder="1" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Login::InitializeComponent()" Options="0" Folder="1" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Login/&lt;&gt;c::.cctor()" Options="0" Folder="1" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Login/&lt;&gt;c::.ctor()" Options="0" Folder="2" CompilationType="1" />
+            <Procedure MapAddress="GhostSS_Clean.Login/&lt;&gt;c::&lt;Login_Load&gt;b__8_0()" Options="0" Folder="1" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;::.cctor()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Utils::getIPinfo()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Utils::GetStringBetween(string, string, string)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Utils::GetProcessStartTime(string)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Utils::Delete(int32)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Utils::RunCMD(string, bool, bool)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Utils::.cctor()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.AD::Initialize()" Options="0" Folder="2" CompilationType="1" />
+            <Procedure MapAddress="GhostSS.ProcessExtensions::FindIndexedProcessName(int32)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.ProcessExtensions::FindPidFromIndexedProcessName(string)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.ProcessExtensions::Parent(class System.Diagnostics.Process)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.DeletedFiles::FoundPca()" Options="0" Folder="2" CompilationType="1" />
+            <Procedure MapAddress="GhostSS.DeletedFiles::.cctor()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.Protection::CheckSandbox()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.Protection::find_module(class System.Diagnostics.Process, string)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.Protection::CheckIllegalProcess()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.TaskExtensions::Repeat(class System.Threading.Tasks.Task, valuetype System.Threading.CancellationToken, valuetype System.TimeSpan)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.TaskExtensions/&lt;&gt;c__DisplayClass0_0::&lt;Repeat&gt;b__0()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.ScanJavaw::Scan(string, string)" Options="0" Folder="2" CompilationType="1" />
+            <Procedure MapAddress="GhostSS.Dumper::FoundDNS()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.Dumper::FoundPca()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.Dumper::DumpDNS()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.Dumper::DumpJavaw(string)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.Dumper::DumpExplorer(string)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.Dumper::DumpDwm(string)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.Dumper::DumpLsass(string)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="Costura.AssemblyLoader::.cctor()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="Costura.AssemblyLoader::Attach()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="Costura.AssemblyLoader::ResolveAssembly(object, class System.ResolveEventArgs)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="Costura.AssemblyLoader::ReadFromEmbeddedResources(class System.Collections.Generic.Dictionary`2&lt;string, string&gt;, class System.Collections.Generic.Dictionary`2&lt;string, string&gt;, class System.Reflection.AssemblyName)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="Costura.AssemblyLoader::ReadStream(class System.IO.Stream)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="Costura.AssemblyLoader::LoadStream(class System.Collections.Generic.Dictionary`2&lt;string, string&gt;, string)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="Costura.AssemblyLoader::LoadStream(string)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="Costura.AssemblyLoader::CopyTo(class System.IO.Stream, class System.IO.Stream)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="Costura.AssemblyLoader::ReadExistingAssembly(class System.Reflection.AssemblyName)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="Costura.AssemblyLoader::CultureToString(class System.Globalization.CultureInfo)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.API.API::sendPin(class System.Collections.Generic.Dictionary`2&lt;string, string&gt;)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.API.API::sendResult(class System.Collections.Generic.Dictionary`2&lt;string, string&gt;)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.model.Result::.ctor(string)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.model.Result::set_result(string)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.model.Result::get_result()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.model.Processus::.ctor(string)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.model.Processus::set_results(class System.Collections.Generic.List`1&lt;class GhostSS.model.Result&gt;)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.Scan.ScanDwm::CheckRestart()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.Scan.ScanExplorer::CheckRestart()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.model.Processus::get_name()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.model.Processus::set_name(string)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.model.Processus::get_results()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS_Clean.Login::Login_KeyPress(object, class System.Windows.Forms.KeyPressEventArgs)" Options="0" Folder="2" CompilationType="1" />
+            <Procedure MapAddress="GhostSS.Scan.CheckDPS::FoundPCAProcess()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.Scan.CheckDPS::FoundDPSProcess()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.Properties.Settings::.cctor()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.Properties.Settings::.ctor()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.Properties.Settings::get_Default()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.Properties.Resources::get_Cat_Hello()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.Properties.Resources::set_Culture(class System.Globalization.CultureInfo)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.Properties.Resources::get_Culture()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.Properties.Resources::get_ResourceManager()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.AnyDesk::.cctor()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.AnyDesk::CheckAnyDesk()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.AnyDesk::GetPortsByPID(int32, class System.Diagnostics.Process&amp;)" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.Dumper::.cctor()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.Protection::CheckParent()" Options="0" Folder="2" CompilationType="2" />
+            <Procedure MapAddress="GhostSS.Scan.ScanDNS::Scan(string)" Options="0" Folder="2" CompilationType="1" />
+            <Procedure MapAddress="GhostSS.Scan.ScanDwm::Scan(string, string)" Options="0" Folder="2" CompilationType="1" />
+            <Procedure MapAddress="GhostSS.Scan.ScanExplorer::Scan(string, string)" Options="0" Folder="2" CompilationType="1" />
+            <Procedure MapAddress="GhostSS.Scan.ScanLsass::Scan(string, string)" Options="0" Folder="2" CompilationType="1" />
+        </Procedures>
+        <Objects />
+    </Protection>
+    <DLLBox>
+        <Folders />
+    </DLLBox>
+    <Script />
+</Document>
